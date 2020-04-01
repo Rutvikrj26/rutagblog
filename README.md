@@ -2,7 +2,7 @@
 
 Clone This Project (Make Sure You Have Git Installed)
 ```
-https://github.com/mustafamuratcoskun/rutag-blog.git
+https://github.com/mustafamuratcoskun/rutagblog.git
 ```
 Install Dependencies 
 
